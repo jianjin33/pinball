@@ -1,0 +1,17 @@
+{
+  "deviceOrientation": "portrait",
+  "display": "fullScreen",
+  "resizable": true,
+  "usingComponents": {},
+  "splashScreen": {
+    "backgroundColor": "#1a4a7a",
+    "type": "color"
+  },
+  "networkTimeout": {
+    "request": 60000,
+    "connectSocket": 60000,
+    "uploadFile": 60000,
+    "downloadFile": 60000
+  },
+  "debug": true
+}
